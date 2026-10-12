@@ -1,0 +1,20 @@
+artifact_path: file:C:/Users/visit/Desktop/NUS/Week27/Assignment/submit/mlruns/1/models/m-d6a9f24a386f4037970f5ebaffbcb570/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.15.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.9
+mlflow_version: 3.17.0
+model_id: m-d6a9f24a386f4037970f5ebaffbcb570
+model_size_bytes: 116471
+model_uuid: m-d6a9f24a386f4037970f5ebaffbcb570
+prompts: null
+run_id: 3b777546d6f9465b83f1d29db30b1c28
+utc_time_created: '2026-10-12 13:20:03.668162'
