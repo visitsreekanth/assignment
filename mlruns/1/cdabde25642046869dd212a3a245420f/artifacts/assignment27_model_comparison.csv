@@ -1,3 +1,0 @@
-model,test_accuracy,parameter_count,keras_model_size_mb,latency_ms_per_image
-Teacher,0.8517,21386,0.11107063293457031,9.291437333255695
-Distilled student,0.8048,1898,0.03676319122314453,8.53124666668009
